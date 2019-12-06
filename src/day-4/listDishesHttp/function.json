@@ -1,0 +1,26 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get"
+      ],
+      "route": "dishes/"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "direction": "in",
+      "type": "table",
+      "name": "tableBinding",
+      "tableName": "dishesTable",
+      "connection": "AZURE_STORAGE_CONNECTION_STRING"
+    }
+  ]
+}
