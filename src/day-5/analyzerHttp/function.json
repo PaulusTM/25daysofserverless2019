@@ -1,0 +1,26 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get",
+        "post"
+      ]
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "direction": "out",
+      "type": "table",
+      "name": "tableBinding",
+      "tableName": "lettersTable",
+      "connection": "AZURE_STORAGE_CONNECTION_STRING"
+    }
+  ]
+}
