@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@octokit/rest": "^16.35.0",
+    "querystring": "^0.2.0"
+  }
+}
