@@ -1,0 +1,17 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0/30 * * * * *"
+    },
+    {
+      "direction": "out",
+      "type": "table",
+      "name": "tableBinding",
+      "tableName": "tweetsTable",
+      "connection": "AZURE_STORAGE_CONNECTION_STRING"
+    }
+  ]
+}
