@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "",
-    "FUNCTIONS_WORKER_RUNTIME": "node",
-    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=25daysofserverlessdp;AccountKey=cD0y0zM0StmqMesQx2oqFdoF+zaIBCsC4YTJrALAQ1nVr8FZd6Gr/JBFLcEiHXifGo1mTPxtUkiLpC7yRu+2Ww==;EndpointSuffix=core.windows.net"
-  }
-}
