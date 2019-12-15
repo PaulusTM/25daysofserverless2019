@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "gists": "^2.0.0",
+    "querystring": "^0.2.0",
+    "redis": "^2.8.0",
+    "showdown": "^1.9.1"
+  }
+}
