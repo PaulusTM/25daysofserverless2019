@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^6.0.0",
+    "@azure/ms-rest-azure-js": "^2.0.1",
+    "node-fetch": "^2.6.0",
+    "unsplash-js": "^6.0.0"
+  }
+}
