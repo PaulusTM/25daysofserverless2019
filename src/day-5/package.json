@@ -10,6 +10,6 @@
     "@azure/cognitiveservices-textanalytics": "^4.0.0",
     "@azure/ms-rest-js": "^2.0.4",
     "@azure/cognitiveservices-translatortext": "^1.0.0",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.1"
   }
 }
