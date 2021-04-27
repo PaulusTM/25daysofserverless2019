@@ -10,7 +10,7 @@
     "bluebird": "^3.7.2",
     "gists": "^2.0.0",
     "querystring": "^0.2.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "showdown": "^1.9.1"
   }
 }
